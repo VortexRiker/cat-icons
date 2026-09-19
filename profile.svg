@@ -1,0 +1,40 @@
+<svg class="icon icon-profile" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"> 
+    <defs>
+        <mask id="icon-profile-mask-fields">
+            <rect x="5" y="20" width="90" height="60" fill="white"/>
+            <rect x="10" y="25" width="30" height="35" fill="black"/>
+            <line x1="45" y1="35" x2="90" y2="35" stroke="black" stroke-width="2"/>
+            <line x1="45" y1="47" x2="90" y2="47" stroke="black" stroke-width="2"/>
+            <line x1="45" y1="59" x2="90" y2="59" stroke="black" stroke-width="2"/>
+            <line x1="10" y1="71" x2="90" y2="71" stroke="black" stroke-width="2"/>
+        </mask>
+    </defs>
+    
+    <g class="icon-main" color="#689">
+        <rect x="5" y="20" width="90" height="60" fill="currentColor" mask="url(#icon-profile-mask-fields)"/>
+    </g>
+
+    <g class="icon-secondary" color="#5ab">
+        <circle cx="25" cy="42.5" r="12" fill="currentColor"/>
+        <polygon points=
+        "
+            14, 38
+            12, 27
+            23, 31
+        "
+        fill="currentColor"/>
+        <polygon points=
+        "
+            36, 38
+            38, 27
+            27, 31
+        "
+        fill="currentColor"/>
+
+        <line x1="45" y1="29" x2="90" y2="29" stroke="currentColor" stroke-width="7"/>
+        <line x1="45" y1="41" x2="90" y2="41" stroke="currentColor" stroke-width="7"/>
+        <line x1="45" y1="53" x2="90" y2="53" stroke="currentColor" stroke-width="7"/>
+        <line x1="10" y1="65" x2="90" y2="65" stroke="currentColor" stroke-width="7"/>
+    </g>
+
+</svg>
