@@ -1,15 +1,15 @@
 <svg class="icon icon-home" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-    <g class ="icon-home-house" color="#69a">
+    <g class ="icon-main" color="#689">
         <defs>
-            <mask id="cutout">
+            <mask id="icon-home-mask-cutout">
                 <rect x="10" y="45" width="50" height="50" fill="white"/>
                 <circle cx="35" cy="70" r="15" fill="black"/>
             </mask>
-            <pattern id="lines" viewBox="0,0,100,100" width="100%" height="20%">
+            <pattern id="icon-home-pattern-lines" viewBox="0,0,100,100" width="100%" height="20%">
                 <line x1="0" y1="100" x2="100" y2="0" stroke="currentColor" stroke-width="20"/>
             </pattern>
         </defs>
-        <rect x="10" y="45" width="50" height="50" fill="currentColor" mask="url(#cutout)"/>
+        <rect x="10" y="45" width="50" height="50" fill="currentColor" mask="url(#icon-home-mask-cutout)"/>
         <polygon points=
         "
             5, 45
@@ -17,9 +17,9 @@
             35, 25
         "
         fill="none" stroke="currentColor" stroke-width="3"/>
-        <rect x="72" y="15" width="15" height="80" fill="url(#lines)" stroke="currentColor" stroke-width="3"/>  
+        <rect x="72" y="15" width="15" height="80" fill="url(#icon-home-pattern-lines)" stroke="currentColor" stroke-width="3"/>  
     </g>
-    <g class="icon-home-cat" color="#e0b887">
+    <g class="icon-secondary" color="#5ab">
         <circle cx="35" cy="70" r="9.5" fill="currentColor"/>
         <polygon points=
         "
