@@ -1,0 +1,63 @@
+<svg class="icon icon-community" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <defs>
+        <mask id="icon-community-mask-bottom">
+            <rect x="0" y="0" width="100" height="95" fill="white"/>
+            <rect x="0" y="5" width="100" height="5" fill="black"/>
+        </mask>
+    </defs>
+    <g class="icon-main" color="#689">
+        <circle cx="50" cy="29" r="16" fill="currentColor"/>
+        <ellipse cx="50" cy="70" rx="20" ry="30" fill="currentColor" mask="url(#icon-community-mask-bottom)"/>
+        <circle cx="22" cy="38" r="13" fill="currentColor"/>
+        <ellipse cx="22" cy="75" rx="17" ry="27" fill="currentColor" mask="url(#icon-community-mask-bottom)"/>
+        <circle cx="78" cy="38" r="13" fill="currentColor"/>
+        <ellipse cx="78" cy="75" rx="17" ry="27" fill="currentColor" mask="url(#icon-community-mask-bottom)"/>
+    </g>
+    <g class="icon-secondary" color="#5ab">
+        <polygon points=
+        "
+            36, 21.5
+            34, 4
+            45, 14
+        "
+        fill="currentColor"/>
+        <polygon points=
+        "
+            64, 21.5
+            66, 4
+            55, 14
+        "
+        fill="currentColor"/>
+
+        <polygon points=
+        "
+            11, 31
+            10, 18
+            19, 25.5
+        "
+        fill="currentColor"/>
+        <polygon points=
+        "
+            33, 31
+            34, 18
+            25, 25.5
+        "
+        fill="currentColor"/>
+
+        <polygon points=
+        "
+            67, 31
+            66, 18
+            75, 25.5
+        "
+        fill="currentColor"/>
+        <polygon points=
+        "
+            89, 31
+            90, 18
+            81, 25.5
+        "
+        fill="currentColor"/>
+        
+    </g>
+</svg>
