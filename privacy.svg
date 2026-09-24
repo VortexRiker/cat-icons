@@ -1,0 +1,46 @@
+<svg class="icon icon-privacy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+
+    <defs>
+        <mask id="icon-privacy-mask-cutout">
+            <rect x="0" y="0" width="100" height="100" fill="white"/>
+            <rect x="5" y="34" width="60" height="61" fill="black"/>
+        </mask>
+    </defs>
+
+    <g class="icon-main" color="#689">
+        <rect x="5" y="35" width="60" height="60" fill="none" stroke="currentColor" stroke-width="2"/>
+        <polygon points=
+        "
+            5,  35
+            65, 35
+            95, 25
+            35, 25
+        "
+        fill="none" stroke="currentColor" stroke-width="2"/>
+        <polygon points=
+        "
+            65, 35
+            95, 25
+            95, 80
+            65, 95
+        "
+        fill="none" stroke="currentColor" stroke-width="2"/>
+    </g>
+    <g class="icon-secondary" color="#5ab">
+        <circle cx="39.5" cy="40" r="13" fill="currentColor" mask="url(#icon-privacy-mask-cutout)"/>
+        <polygon points= 
+        "
+            29, 33
+            28, 20
+            40, 29
+        "
+        fill="currentColor"/>
+        <polygon points= 
+        "
+            50, 33
+            51, 20
+            39, 29
+        "
+        fill="currentColor"/>
+    </g> 
+</svg>
