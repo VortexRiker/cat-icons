@@ -1,0 +1,32 @@
+<svg class="icon icon-privacy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+
+    <g class="icon-main" color="#689">
+        <circle cx="65" cy="35" r="30" fill="none" stroke="currentColor" stroke-width="5"/>
+        <polygon points=
+        "
+            15,95
+            5, 85
+            42, 56
+            47, 60
+        " fill="currentColor"/>
+    </g>
+
+    <g class="icon-secondary" color="#5ab">
+      <circle cx="65" cy="37" r="15" fill="currentColor" stroke="currentColor" stroke-width="2"/>
+      <polygon points=
+      "
+        50, 32
+        46, 18
+        60, 23
+      "
+      fill="currentColor"/>
+      <polygon points=
+      "
+        80, 32
+        84, 18
+        70, 23
+      "
+      fill="currentColor"/>
+    </g>
+
+</svg>
