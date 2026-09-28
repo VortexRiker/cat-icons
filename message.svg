@@ -1,0 +1,52 @@
+<svg class="icon icon-home" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+
+<g class="icon-main" color="#689" transform="translate(0,5) scale(1.5)">
+    <circle cx="15" cy="50" r="10" fill="currentColor"/>
+    <polygon points=
+    "
+        5, 44.5
+        2, 33
+        11, 39.5
+    "
+    fill="currentColor"/>
+    <polygon points=
+    "
+        25, 44.5
+        28, 33  
+        19, 39.5
+    "
+    fill="currentColor"/>
+</g>
+
+<g class="icon-main" color="#689">
+    <path d=
+    "
+        M 40 80
+        L 60 75
+        H 95
+        V 5
+        H 50
+        V 65
+        L 40 80
+    " 
+    fill="none" stroke="currentColor" stroke-width="3"/>
+</g> 
+
+<g class="icon-secondary" color="#5ab">
+    <path d=
+    "
+        M 55 15
+        H 90
+        M 55 25
+        H 90
+        M 55 35
+        H 90
+        M 55 45
+        H 90
+        M 55 55
+        H 77
+    "
+    fill="none" stroke="currentColor" stroke-width="5"/>
+</g>
+
+</svg>
