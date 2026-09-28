@@ -1,0 +1,85 @@
+<svg class="icon icon-home" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+
+<g class="icon-main" color="#689">
+    <circle cx="15" cy="50" r="10" fill="currentColor"/>
+    <polygon points=
+    "
+        5, 44.5
+        2, 33
+        11, 39.5
+    "
+    fill="currentColor"/>
+    <polygon points=
+    "
+        25, 44.5
+        28, 33  
+        19, 39.5
+    "
+    fill="currentColor"/>
+</g>
+
+<g class="icon-main" color="#689" transform="translate(70,35)">
+    <circle cx="15" cy="50" r="10" fill="currentColor"/>
+    <polygon points=
+    "
+        5, 44.5
+        2, 33
+        11, 39.5
+    "
+    fill="currentColor"/>
+    <polygon points=
+    "
+        25, 44.5
+        28, 33  
+        19, 39.5
+    "
+    fill="currentColor"/>
+</g>
+
+<g class="icon-main" color="#689" transform="translate(70,-30)">
+    <circle cx="15" cy="50" r="10" fill="currentColor"/>
+    <polygon points=
+    "
+        5, 44.5
+        2, 33
+        11, 39.5
+    "
+    fill="currentColor"/>
+    <polygon points=
+    "
+        25, 44.5
+        28, 33  
+        19, 39.5
+    "
+    fill="currentColor"/>
+</g>
+
+<g class="icon-main" color="#689">
+    <path d=
+    "
+        M 30 50
+        H 50
+        V 85
+        H 70
+        M 50 50
+        V 20
+        H 70
+    "
+    fill="none" stroke="currentColor"/>
+</g>
+
+<g class="icon-secondary" color="#5ab">
+    <path d=
+    "
+        M 30 50
+        H 50
+        V 85
+        H 70
+        M 50 50
+        V 20
+        H 70
+    "
+    fill="none" stroke="currentColor" stroke-width="3"/>
+</g>
+
+</svg>
