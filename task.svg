@@ -1,0 +1,48 @@
+<svg class="icon icon-home" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+
+    <g transform="rotate(-45, 78.5, 29.5) translate(-3,-8)">
+        <g class="icon-seconday" color="#5ab">
+            <rect x="66" y="12" width="25" height="35" fill="none" stroke="currentColor" stroke-width="1"/>
+            <path d=
+            "
+                M 68 17
+                H 89
+                M 68 22
+                H 89
+                M 68 27
+                H 86
+                M 68 32
+                H 89
+                M 68 37
+                H 89
+                M 68 42
+                H 81
+            "
+            fill="none" stroke="currentColor" stroke-width="2"/>
+        </g>
+    </g>
+
+    <g transform="translate(-10,-20) scale(1.2)">
+        <g class="icon-main" color="#689" transform="translate(-20,0)">
+            <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+            <ellipse cx="50" cy="80" rx="16" ry="19" fill="currentColor"/>
+        </g>
+        <g class="icon-main" color="#689" transform="rotate(45 55 58)">
+            <ellipse cx="55" cy="58" rx="4" ry="15" fill="currentColor"/>
+        </g>
+    </g>
+</svg>
