@@ -1,7 +1,7 @@
 <svg class="icon icon-home" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
 
     <g transform="rotate(-45, 78.5, 29.5) translate(-3,-8)">
-        <g class="icon-seconday" color="#5ab">
+        <g class="icon-secondary" color="#5ab">
             <rect x="66" y="12" width="25" height="35" fill="none" stroke="currentColor" stroke-width="1"/>
             <path d=
             "

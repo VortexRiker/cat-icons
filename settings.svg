@@ -1,0 +1,84 @@
+<svg class="icon icon-home" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+
+    <g class="icon-main" color="#689">
+
+        <circle cx="50" cy="50" r="30" fill="none" stroke="currentColor" stroke-width="10"/>
+        <polygon points=
+        "
+            40, 2
+            60, 2
+            65, 20
+            35, 20
+        "
+        fill="currentColor"/>
+        <polygon points=
+        "
+            40, 2
+            60, 2
+            65, 20
+            35, 20
+        "
+        fill="currentColor" transform="rotate(60, 50, 50)"/>
+        <polygon points=
+        "
+            40, 2
+            60, 2
+            65, 20
+            35, 20
+        "
+        fill="currentColor" transform="rotate(120, 50, 50)"/>
+        <polygon points=
+        "
+            40, 2
+            60, 2
+            65, 20
+            35, 20
+        "
+        fill="currentColor" transform="rotate(180, 50, 50)"/>
+        <polygon points=
+        "
+            40, 2
+            60, 2
+            65, 20
+            35, 20
+        "
+        fill="currentColor" transform="rotate(240, 50, 50)"/>
+        <polygon points=
+        "
+            40, 2
+            60, 2
+            65, 20
+            35, 20
+        "
+        fill="currentColor" transform="rotate(300, 50, 50)"/>      
+    </g>
+    <g class="icon-secondary" color="#5ab" transform="translate(32, 14) scale(0.57)">
+            <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+            <ellipse cx="31" cy="70" rx="20" ry="13" fill="currentColor"/>
+            <ellipse cx="50" cy="89.5" rx="10" ry="4" fill="currentColor" transform="rotate(60, 50, 89.5)"/>
+            <ellipse cx="12" cy="89.5" rx="10" ry="4" fill="currentColor" transform="rotate(120, 12, 89.5)"/>
+            <path d=
+            "
+                M 12 62
+                C 2 52
+                  22 42
+                  9 34
+            "
+            fill="none" stroke="currentColor" stroke-width="5"/>
+        </g>
+
+</svg>
