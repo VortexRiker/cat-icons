@@ -1,0 +1,34 @@
+<svg class="icon icon-notifications" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <g class="icon-main" color="#689" transform="translate(0,-10)">
+        <ellipse cx="50" cy="50" rx="16" ry="19" fill="none" stroke="currentColor" stroke-width="2"/>
+        <polygon points=
+        "
+            50, 71
+            44, 74
+            40, 89
+            36, 94
+            64, 94
+            60, 89
+            56, 74
+        "
+        fill="currentColor"/>
+        <circle cx="50" cy="97.5" r="3" fill="currentColor"/>
+    </g>
+    <g class="icon-secondary" color="#5ab" transform="translate(-50, -60) scale(2)">
+            <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+</svg>
