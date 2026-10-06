@@ -1,0 +1,92 @@
+<svg class="icon icon-view" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <defs>
+        <mask id="icon-view-mask-television">
+            <rect x="0" y="0" width="100" height="100" fill="white"/>
+            <path d=
+            "
+                M 15 90
+                S 5 65,
+                  15 40
+                H 70
+                S 80 65,
+                  70 90
+            " 
+            fill="black"/>
+            <rect x="78" y="40" width="14" height="50" fill="none" stroke="black"/>
+
+            <circle cx="85" cy="47" r="4" fill="none" stroke="black" stroke-width="1.3"/>
+            <circle cx="85" cy="57" r="4" fill="none" stroke="black" stroke-width="1.3"/>
+            <line x1="82" y1="45" x2="88" y2="49" stroke="black"/>  
+            <line x1="85" y1="53" x2="85" y2="61" stroke="black"/>  
+
+            <circle cx="82" cy="66" r="1" fill="black"/>
+            <circle cx="85" cy="66" r="1" fill="black"/>
+            <circle cx="88" cy="66" r="1" fill="black"/>
+
+            <circle cx="82" cy="70" r="1" fill="black"/>
+            <circle cx="85" cy="70" r="1" fill="black"/>
+            <circle cx="88" cy="70" r="1" fill="black"/>
+
+            <circle cx="82" cy="74" r="1" fill="black"/>
+            <circle cx="85" cy="74" r="1" fill="black"/>
+            <circle cx="88" cy="74" r="1" fill="black"/>
+            <circle cx="82" cy="78" r="1" fill="black"/>
+            <circle cx="85" cy="78" r="1" fill="black"/>
+            <circle cx="88" cy="78" r="1" fill="black"/>
+
+            <circle cx="85" cy="85" r="3" fill="black"/>
+
+        </mask>
+    </defs>
+    <g class="icon-main" color="#689">
+        <rect x="5" y="35" width="90" height="60" fill="currentColor" mask="url(#icon-view-mask-television)"/>
+        <circle cx="42" cy="50" r="20" fill="currentColor" mask="url(#icon-view-mask-television)"/>
+        <path d=
+        "
+            M 37 33
+            L 32 15
+            L 29 20
+            L 22 7
+        "
+        fill="none" stroke="currentColor"/>
+        <path d=
+        "
+            M 47 33
+            L 52 20
+            L 59 17
+            L 62 7
+        "
+        fill="none" stroke="currentColor"/>
+        <circle cx="22" cy="7" r="2" fill="currentColor"/>
+        <circle cx="62" cy="7" r="2" fill="currentColor"/>
+    </g>
+    <g transform="translate(21.5,19) scale(0.7)">
+        <g class="icon-secondary" color="#5ab" transform="translate(-20,0)">
+            <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+            <ellipse cx="50" cy="80" rx="16" ry="19" fill="currentColor"/>
+        </g>
+        <g class="icon-secondary" color="#5ab" transform="rotate(45 55 58)">
+            <ellipse cx="55" cy="58" rx="4" ry="15" fill="currentColor"/>
+        </g>
+        <g class="icon-secondary" color="#5ab" transform="rotate(315 5 58)">
+            <ellipse cx="5" cy="58" rx="4" ry="15" fill="currentColor"/>
+        </g>
+    </g>
+    <g class="icon-secondary" color="#5ab">
+        <circle cx="85" cy="85" r="2" fill="currentColor"/> 
+    </g>
+</svg>
