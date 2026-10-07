@@ -1,0 +1,361 @@
+<svg class="icon icon-history" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <g class="icon-main" color="#689">
+        <rect x="10" y="5" width="80" height="7" fill="currentColor"/>
+        <rect x="10" y="88" width="80" height="7" fill="currentColor"/>
+        <path d=
+        "
+            M 15 12
+            V 25
+            L 20 35
+            L 30 45
+            L 44 47
+            L 45 49
+            V 51
+            L 44 53
+            L 30 55
+            L 20 65
+            L 15 75
+            V 88
+        "
+        fill="none" stroke="currentColor" stroke-width="2"/>
+        <path d=
+        "
+            M 15 12
+            V 25
+            L 20 35
+            L 30 45
+            L 44 47
+            L 45 49
+            V 51
+            L 44 53
+            L 30 55
+            L 20 65
+            L 15 75
+            V 88
+        "
+        fill="none" stroke="currentColor" stroke-width="2" transform="rotate(180, 50, 50)"/>
+    </g>
+    <g class="icon-transient" color="#5ab" transform="translate(10, 14) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-transient" color="#5ab" transform="translate(-1, 2) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-transient" color="#5ab" transform="translate(13, 1) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-transient" color="#5ab" transform="translate(25, 18) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-transient" color="#5ab" transform="translate(25, 7) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-transient" color="#5ab" transform="translate(26, -4) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-transient" color="#5ab" transform="translate(25, 18) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-transient" color="#5ab" transform="translate(40, 14) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-transient" color="#5ab" transform="translate(51, 3) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-transient" color="#5ab" transform="translate(38, 2) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-secondary" color="#5ab" transform="translate(0, 58) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-secondary" color="#5ab" transform="translate(13, 58) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-secondary" color="#5ab" transform="translate(26, 58) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-secondary" color="#5ab" transform="translate(39, 58) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-secondary" color="#5ab" transform="translate(52, 58) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-secondary" color="#5ab" transform="translate(26, 47.5) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-secondary" color="#5ab" transform="translate(39, 47) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-secondary" color="#5ab" transform="translate(13, 47) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+    <g class="icon-secondary" color="#5ab" transform="translate(26, 37) scale(0.5)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
+            <polygon points=
+            "
+                40, 44.5
+                37, 33
+                46, 39.5
+            "
+            fill="currentColor"/>
+            <polygon points=
+            "
+                60, 44.5
+                63, 33
+                54, 39.5
+            "
+            fill="currentColor"/>
+    </g>
+</svg>
