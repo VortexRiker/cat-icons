@@ -17,7 +17,7 @@
             L 15 75
             V 88
         "
-        fill="none" stroke="currentColor" stroke-width="2"/>
+        fill="none" stroke="currentColor" stroke-width="3"/>
         <path d=
         "
             M 15 12
@@ -33,7 +33,7 @@
             L 15 75
             V 88
         "
-        fill="none" stroke="currentColor" stroke-width="2" transform="rotate(180, 50, 50)"/>
+        fill="none" stroke="currentColor" stroke-width="3" transform="rotate(180, 50, 50)"/>
     </g>
     <g class="icon-transient" color="#5ab" transform="translate(10, 14) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
