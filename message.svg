@@ -1,6 +1,6 @@
-<svg class="icon icon-home" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<svg class="icon icon-message" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
 
-<g class="icon-main" color="#689" transform="translate(0,5) scale(1.5)">
+<g class="icon-primary" color="#689" transform="translate(0,5) scale(1.5)">
     <circle cx="15" cy="50" r="10" fill="currentColor"/>
     <polygon points=
     "
@@ -18,7 +18,7 @@
     fill="currentColor"/>
 </g>
 
-<g class="icon-main" color="#689">
+<g class="icon-primary" color="#689">
     <path d=
     "
         M 40 80
