@@ -1,39 +1,50 @@
 <svg class="icon icon-home" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-    <g class ="icon-main" color="#689">
-        <defs>
-            <mask id="icon-home-mask-cutout">
-                <rect x="10" y="45" width="50" height="50" fill="white"/>
-                <circle cx="35" cy="70" r="15" fill="black"/>
-            </mask>
-            <pattern id="icon-home-pattern-lines" viewBox="0,0,100,100" width="100%" height="20%">
-                <line x1="0" y1="100" x2="100" y2="0" stroke="currentColor" stroke-width="20"/>
-            </pattern>
-        </defs>
-        <rect x="10" y="45" width="50" height="50" fill="currentColor" mask="url(#icon-home-mask-cutout)"/>
+
+    <defs>
+        <mask id="icon-home-mask-cutout">
+            <rect x="0" y="0" width="100" height="100" fill="white"/>
+            <rect x="15" y="50" width="30" height="50" fill="black"/>
+            <rect x="55" y="40" width="30" height="30" fill="black"/>
+            <circle cx="50" cy="16" r="10" fill="black"/>
+        </mask>
+    </defs>
+
+    <g class="icon-secondary" color="#5ab" transform="translate(-3,30) scale(0.65)">
+        <circle cx="50" cy="50" r="10" fill="currentColor"/>
         <polygon points=
         "
-            5, 45
-            65, 45
-            35, 25
+            40, 44.5
+            37, 33
+            46, 39.5
         "
-        fill="none" stroke="currentColor" stroke-width="3"/>
-        <rect x="72" y="15" width="15" height="80" fill="url(#icon-home-pattern-lines)" stroke="currentColor" stroke-width="3"/>  
+        fill="currentColor"/>
+        <polygon points=
+        "
+            60, 44.5
+            63, 33
+            54, 39.5
+        "
+        fill="currentColor"/>
+        <ellipse cx="50" cy="80" rx="16" ry="19" fill="currentColor"/>
     </g>
+
     <g class="icon-secondary" color="#5ab">
-        <circle cx="35" cy="70" r="9.5" fill="currentColor"/>
+        <rect x="54" y="39" width="33" height="33" fill="currentColor"/>
+        <circle cx="50" cy="16" r="11" fill="currentColor"/>
+    </g>
+
+    <g class ="icon-primary" color="#689">
+        <rect x="5" y="32" width="90" height="65" fill="currentColor" mask="url(#icon-home-mask-cutout)"/>
         <polygon points=
         "
-            26, 67
-            26, 59
-            33, 61
+            0, 29
+            50, 0
+            100, 29
         "
-        fill="currentColor"/>
-        <polygon points=
-        "
-            44, 67
-            44, 59
-            37, 61
-        "
-        fill="currentColor"/>
+        fill="currentColor" mask="url(#icon-home-mask-cutout)"/>
+        <line x1="70" y1="39" x2="70" y2="71" stroke="currentColor" stroke-width="3"/>
+        <line x1="54" y1="55" x2="86" y2="55" stroke="currentColor" stroke-width="3"/>
+        <line x1="50" y1="5" x2="50" y2="27" stroke="currentColor" stroke-width="3"/>
+        <line x1="39" y1="16" x2="61" y2="16" stroke="currentColor" stroke-width="3"/>
     </g>
 </svg>
