@@ -1,5 +1,5 @@
 <svg class="icon icon-favorite" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-    <g class="icon-secondary" color="#5ab">
+    <g class="icon-secondary icon-hover" color="#5ab">
         <path d=
         "
             M 40 63
@@ -25,10 +25,10 @@
         <rect x="47" y="14" width="6" height="6" fill="currentColor" transform="rotate(315, 50, 35)"/>
         <rect x="47" y="14" width="6" height="6" fill="currentColor" transform="rotate(345, 50, 35)"/>
     </g>
-    <g class="icon-main" color="#689">
+    <g class="icon-primary" color="#689">
         <circle cx="50" cy="35" r="15" fill="none" stroke="currentColor"/>
         <circle cx="50" cy="35" r="21" fill="none" stroke="currentColor"/>
-        <circle cx="50" cy="35" r="30" fill="none" stroke="currentColor"/>
+        <circle cx="50" cy="35" r="30" fill="none" stroke="currentColor" stroke-width="3"/>
         <path d=
         "
             M 35 61
@@ -123,7 +123,7 @@
         "
         fill="currentColor" transform="rotate(330, 50, 35)"/>
     </g>
-    <g class="icon-secondary" color="#5ab" transform="translate(15,1.5) scale(0.7)">
+    <g class="icon-secondary icon-hover" color="#5ab" transform="translate(15,1.5) scale(0.7)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
         <polygon points=
         "

@@ -1,0 +1,77 @@
+:root
+{
+    --font-headings: sans-serif;
+    --font-primary: sans-serif;
+    --font-secondary: sans-serif;
+    
+    --color-bg-body: #233;
+    --color-objects: #577;
+
+    --color-font-headings: #689;
+    --color-font-primary: #233;
+    --color-font-secondary: #5ab;
+
+    box-sizing: border-box;
+    font-family: var(--font-primary);
+    color: var(--color-font-primary);
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+*,
+*::before,
+*::after
+{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    /* outline: 1px solid red; */
+}
+
+body
+{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--color-bg-body);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+    font-family: var(--font-headings);
+    color: var(--color-font-headings);
+}
+
+header
+{
+    display: flex;
+    justify-content: center;
+}
+
+main
+{
+    display: grid;
+    grid-template-columns: repeat(5, clamp(100px, 20%, 150px));
+    padding: 10px;
+    gap: 10px;
+    justify-content: center;
+}
+main .item
+{
+    border: 3px solid var(--color-objects);
+    display: flex;
+    flex-direction: column;
+}
+main p
+{
+    flex: 1;
+    background-color: var(--color-objects);
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-align: center;
+}
+main svg
+{
+    width: 100%;
+    aspect-ratio: 1;
+}
