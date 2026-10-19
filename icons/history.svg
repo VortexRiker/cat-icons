@@ -1,5 +1,5 @@
 <svg class="icon icon-history" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-    <g class="icon-main" color="#689">
+    <g class="icon-primary" color="#689">
         <rect x="10" y="5" width="80" height="7" fill="currentColor"/>
         <rect x="10" y="88" width="80" height="7" fill="currentColor"/>
         <path d=
@@ -35,7 +35,7 @@
         "
         fill="none" stroke="currentColor" stroke-width="3" transform="rotate(180, 50, 50)"/>
     </g>
-    <g class="icon-transient" color="#5ab" transform="translate(10, 14) scale(0.5)">
+    <g class="icon-secondary icon-default" color="#5ab" transform="translate(10, 14) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -52,7 +52,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-transient" color="#5ab" transform="translate(-1, 2) scale(0.5)">
+    <g class="icon-secondary icon-default" color="#5ab" transform="translate(-1, 2) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -69,7 +69,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-transient" color="#5ab" transform="translate(13, 1) scale(0.5)">
+    <g class="icon-secondary icon-default" color="#5ab" transform="translate(13, 1) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -86,7 +86,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-transient" color="#5ab" transform="translate(25, 18) scale(0.5)">
+    <g class="icon-secondary icon-default" color="#5ab" transform="translate(25, 18) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -103,7 +103,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-transient" color="#5ab" transform="translate(25, 7) scale(0.5)">
+    <g class="icon-secondary icon-default" color="#5ab" transform="translate(25, 7) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -120,7 +120,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-transient" color="#5ab" transform="translate(26, -4) scale(0.5)">
+    <g class="icon-secondary icon-default" color="#5ab" transform="translate(26, -4) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -137,7 +137,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-transient" color="#5ab" transform="translate(25, 18) scale(0.5)">
+    <g class="icon-secondary icon-default" color="#5ab" transform="translate(25, 18) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -154,7 +154,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-transient" color="#5ab" transform="translate(40, 14) scale(0.5)">
+    <g class="icon-secondary icon-default" color="#5ab" transform="translate(40, 14) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -171,7 +171,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-transient" color="#5ab" transform="translate(51, 3) scale(0.5)">
+    <g class="icon-secondary icon-default" color="#5ab" transform="translate(51, 3) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -188,7 +188,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-transient" color="#5ab" transform="translate(38, 2) scale(0.5)">
+    <g class="icon-secondary icon-default" color="#5ab" transform="translate(38, 2) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -205,7 +205,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-secondary" color="#5ab" transform="translate(0, 58) scale(0.5)">
+    <g class="icon-secondary icon-hover" color="#5ab" transform="translate(0, 58) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -222,7 +222,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-secondary" color="#5ab" transform="translate(13, 58) scale(0.5)">
+    <g class="icon-secondary icon-hover" color="#5ab" transform="translate(13, 58) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -239,7 +239,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-secondary" color="#5ab" transform="translate(26, 58) scale(0.5)">
+    <g class="icon-secondary icon-hover" color="#5ab" transform="translate(26, 58) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -256,7 +256,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-secondary" color="#5ab" transform="translate(39, 58) scale(0.5)">
+    <g class="icon-secondary icon-hover" color="#5ab" transform="translate(39, 58) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -273,7 +273,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-secondary" color="#5ab" transform="translate(52, 58) scale(0.5)">
+    <g class="icon-secondary icon-hover" color="#5ab" transform="translate(52, 58) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -290,7 +290,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-secondary" color="#5ab" transform="translate(26, 47.5) scale(0.5)">
+    <g class="icon-secondary icon-hover" color="#5ab" transform="translate(26, 47.5) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -307,7 +307,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-secondary" color="#5ab" transform="translate(39, 47) scale(0.5)">
+    <g class="icon-secondary icon-hover" color="#5ab" transform="translate(39, 47) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -324,7 +324,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-secondary" color="#5ab" transform="translate(13, 47) scale(0.5)">
+    <g class="icon-secondary icon-hover" color="#5ab" transform="translate(13, 47) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
@@ -341,7 +341,7 @@
             "
             fill="currentColor"/>
     </g>
-    <g class="icon-secondary" color="#5ab" transform="translate(26, 37) scale(0.5)">
+    <g class="icon-secondary icon-hover" color="#5ab" transform="translate(26, 37) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
             "
