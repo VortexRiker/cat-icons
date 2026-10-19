@@ -35,6 +35,7 @@
         "
         fill="none" stroke="currentColor" stroke-width="3" transform="rotate(180, 50, 50)"/>
     </g>
+
     <g class="icon-secondary icon-default" color="#5ab" transform="translate(10, 14) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
@@ -205,6 +206,7 @@
             "
             fill="currentColor"/>
     </g>
+    
     <g class="icon-secondary icon-hover" color="#5ab" transform="translate(0, 58) scale(0.5)">
         <circle cx="50" cy="50" r="10" fill="currentColor"/>
             <polygon points=
