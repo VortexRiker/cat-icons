@@ -1,59 +1,41 @@
 <svg class="icon icon-support" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-    <g class="icon-secondary icon-default" color="#5ab" transform="translate(30, 0)scale(0.45)">
-      <path d=
-          "
-            M 43 73
-            Q 42 60,
-              55 50
-            Q 88 30,
-              70 15
-            Q 50 5,
-              30 15
-            Q 23 20,
-              20 28
-          "
-          fill="none" stroke="currentColor" stroke-width="10"/>
-      <path d=
-            "
-              M 17.8 27
-              C 16 33,
-                23 33,
-                22.6 26
-            "
-          fill="none" stroke="currentColor" stroke-width="5"/>
-      <path d=
-            "
-              M 40.5  73
-              C 41.2  78,
-                46  78,
-                45.5    72
-            "
-          fill="none" stroke="currentColor" stroke-width="5"/>
-
-          <circle cx="43.5" cy="91" r="9" fill="currentColor"/>
-    </g>
-    
-    <g class="icon-primary icon-hover" color="#689" transform="translate(30, 0)scale(0.45)">
-      <path d=
-          "
-            M 43 73
-            C 15 -15,
-              70 -15,
-              43 73
-          "
-      fill="currentColor" stroke="currentColor" stroke-width="11"/>
-      <path d=
-          "
-            M 40 73
-            C 41 77,
-              45 77,
-              46 73
-          "
-      fill="currentColor" stroke="currentColor" stroke-width="5"/>
-
-          <circle cx="43.5" cy="91" r="9" fill="currentColor"/>
+    <g class="icon-primary" color="#689">
+        <path d=
+        "
+            M 45 35
+            Q 45 31,
+                40 25
+            Q 29 12,
+                45 5
+            Q 50 3.6,
+                55 5
+            Q 71 12,
+                60 25
+            Q 55 31,
+                55 35
+        "
+        fill="none" stroke="currentColor" stroke-width="2"/>
+        <ellipse cx="50" cy="36" rx="5.5" ry="1" fill="currentColor" stroke="currentColor" stroke-width="2"/>
+        <ellipse cx="50" cy="38" rx="5" ry="1" fill="currentColor" stroke="currentColor" stroke-width="2"/>
+        <ellipse cx="50" cy="40" rx="4.5" ry="1" fill="currentColor" stroke="currentColor" stroke-width="2"/>
+        <ellipse cx="50" cy="42" rx="2.5" ry="1" fill="currentColor"/>
+        <line x1="48" y1="35" x2="43.5" y2="16" stroke="currentColor" stroke-width="1.2"/>
+        <line x1="52" y1="35" x2="56.5" y2="16" stroke="currentColor" stroke-width="1.2"/>
     </g>
 
+    <g class="icon-primary icon-default" color="#689">
+        <path d=
+        "
+            M 43.5 16.5
+            L 46 15
+            L 48 17
+            L 50 15
+            L 52 17
+            L 54 15
+            L 56.5 16.5
+        "
+        fill="none" stroke="currentColor" stroke-width="0.7"/>
+    </g>
     <g class="icon-primary icon-default" color="#689" transform="translate(13.5,2) scale(1.2)">
         <g transform="translate(-20,0)">
             <circle cx="50" cy="50" r="10" fill="currentColor"/>
@@ -61,6 +43,28 @@
         </g>
     </g>
 
+    <g class="icon-secondary icon-hover" color="#5ab">
+        <path d=
+        "
+            M 43.5 16.5
+            L 46 15
+            L 48 17
+            L 50 15
+            L 52 17
+            L 54 15
+            L 56.5 16.5
+        "
+        fill="none" stroke="currentColor" stroke-width="2"/>
+    </g>
+    <g class="icon-secondary icon-hover" color="#5ab">
+        <line x1="30" y1="10" x2="8" y2="2" stroke="currentColor" stroke-width="2"/>
+        <line x1="29" y1="20" x2="5" y2="20" stroke="currentColor" stroke-width="2"/>
+        <line x1="31" y1="30" x2="8" y2="38" stroke="currentColor" stroke-width="2"/>
+        <line x1="70" y1="10" x2="92" y2="2" stroke="currentColor" stroke-width="2"/>
+        <line x1="71" y1="20" x2="95" y2="20" stroke="currentColor" stroke-width="2"/>
+        <line x1="69" y1="30" x2="92" y2="38" stroke="currentColor" stroke-width="2"/>
+
+    </g>
     <g class="icon-secondary icon-hover" color="#5ab" transform="translate(13.5,2) scale(1.2)">
         <g transform="translate(-20,0)">
             <circle cx="50" cy="50" r="10" fill="currentColor"/>
