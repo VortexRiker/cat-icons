@@ -30,15 +30,15 @@ Set includes next icons:
 
 At this moment icon usage is only possible in inline form and WITH inclusion of css file coming with them.
 
-To use icons:
-- Past the code of icon into a preferred place in your project
-- Add icons.css to the project by your preferred method
+**To use icons:**
+1. Past the code of icon into a preferred place in your project
+2. Add icons.css to the project by your preferred method
 
 CSS file can be used to customize icon colors.
 
-To change icon colors:
-- Open icons.css file linked to your project
-- Change variable --color-icon-primary and --color-icon-secondary values to your preference 
+**To change icon colors:**
+1. Open icons.css file linked to your project
+2. Change variable --color-icon-primary and --color-icon-secondary values to your preference 
 
 ## License
 
