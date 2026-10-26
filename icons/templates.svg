@@ -1,0 +1,56 @@
+<!-- QUESTION MARK -->
+<g class="icon-secondary icon-default" color="#5ab" transform="translate(30, 0)scale(0.45)">
+    <path d=
+        "
+        M 43 73
+        Q 42 60,
+            55 50
+        Q 88 30,
+            70 15
+        Q 50 5,
+            30 15
+        Q 23 20,
+            20 28
+        "
+        fill="none" stroke="currentColor" stroke-width="10"/>
+    <path d=
+        "
+            M 17.8 27
+            C 16 33,
+            23 33,
+            22.6 26
+        "
+        fill="none" stroke="currentColor" stroke-width="5"/>
+    <path d=
+        "
+            M 40.5  73
+            C 41.2  78,
+            46  78,
+            45.5    72
+        "
+        fill="none" stroke="currentColor" stroke-width="5"/>
+
+        <circle cx="43.5" cy="91" r="9" fill="currentColor"/>
+</g>
+
+<!-- EXCLAMATION MARK -->
+<g class="icon-primary icon-hover" color="#689" transform="translate(30, 0)scale(0.45)">
+    <path d=
+        "
+        M 43 73
+        C 15 -15,
+            70 -15,
+            43 73
+        "
+    fill="currentColor" stroke="currentColor" stroke-width="11"/>
+    <path d=
+        "
+        M 40 73
+        C 41 77,
+            45 77,
+            46 73
+        "
+    fill="currentColor" stroke="currentColor" stroke-width="5"/>
+
+        <circle cx="43.5" cy="91" r="9" fill="currentColor"/>
+</g>
